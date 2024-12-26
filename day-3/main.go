@@ -38,4 +38,5 @@ func main() {
 		}
 	}
 	fmt.Printf("Total sum: %d", sum)
+
 }
